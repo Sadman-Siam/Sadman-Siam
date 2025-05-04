@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sadman-Siam
 - 🌱 I’m currently a undergrad student studying CSE
-- - 👀 I’m currently developing some basic games to build up my experience
-  - My end goal is to be a fulltime GameDev 
+- - 👀 I’m currently developing Full-Stack web apps
 
 
 <!---
