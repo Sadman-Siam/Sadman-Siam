@@ -1,7 +1,7 @@
 ### *<div align="center">Hi, 👋 I'm a full-stack developer with experience building both web and mobile applications, turning ideas into reality through efficient code and intuitive user interfaces.</div>*  
   
 
-- I’m currently working on [TeamFlow](https://teamflow-web.vercel.app/)  
+- I’m currently working on setting up my own home server
   
 
 - Currently diving into the world of Machine Learning and Large Language Models (LLMs). Exploring how to integrate AI capabilities into real-world applications.  
