@@ -1,6 +1,6 @@
 ### *<div align="center">Hi Sadman Siam here, I'm currently learning and working on solo projects focused on full-stack development in both web and mobile applications.</div>*  
   
-- I'm currently developing an app  name - Co-Debug [repo link]<a href = "https://github.com/Sadman-Siam/Co-DEBUG-BACKEND"></a>
+- I'm currently developing an app  name - Co-Debug [repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND) [Backend repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND)
 - I’m currently working on setting up my own home server
   
 
