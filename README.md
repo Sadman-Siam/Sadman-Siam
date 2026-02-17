@@ -1,12 +1,15 @@
 ### *<div align="center">Hi Sadman Siam here, I'm currently learning and working on solo projects focused on full-stack development in both web and mobile applications.</div>*  
   
-- I'm currently developing an app  name - Co-Debug [repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND) [Backend repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND)
-- Setting my own home server (Docker Hosting)
-- Completed my Thesis on Based on 
-- Currently diving into the world of Machine Learning and Large Language Models (LLMs). Exploring how to integrate AI capabilities into real-world applications.  
-  
-
-- Im always open to learn and experimenting with new tools and technologies. Feel free to check out my repositories or connect with me if you want to collaborate or just talk tech  
+- I'm currently developing an mobile app name - Co-Debug [repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND) / [Backend repo link](https://github.com/Sadman-Siam/Co-DEBUG-BACKEND)
+- My completed projects
+    - Crypto Graph Dashboard [Live Site](https://crypto-graph-dashboard.vercel.app/)
+    - Team-flow [Live Site](https://teamflow-web.vercel.app/)
+    - Bipod Shongket [Live Site](https://bipod-shongket.vercel.app/)
+- Also Setting up my own home server (Learning about server architecture and Docker Hosting)
+- Completed my Thesis on Based on CNN architecture, Machine Learning
+    - Title : Parameter-Efficient Deep Learning approach with Joint Fusion for Multi-Class Eye Disease Detection [PDF](https://drive.google.com/file/d/1yXWuIAl47sRDmRnaDO94UP_IAlVxn5si/view?usp=sharing)
+- Learing and studying about LLM(Large Language Model) and Transformer Architecture, Plan to Develop my own LLM Model
+- Im always open to learn and experimenting with new tools and technologies. Feel free to check out my repositories or connect with me if you want to collaborate on any cool projects.
   
 
 <br/>  
